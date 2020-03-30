@@ -13,6 +13,21 @@ namespace MoneySpent.Controllers
             return View();
         }
 
+        public ActionResult Entry()
+        {
+            return View();
+        }
+
+        public ActionResult Transfer()
+        {
+            return View();
+        }
+
+        public ActionResult Service()
+        {
+            return View();
+        }
+
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
