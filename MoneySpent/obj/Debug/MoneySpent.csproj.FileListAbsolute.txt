@@ -145,8 +145,12 @@ D:\Sach files\MoneySpent\web\MoneySpent\bin\System.Web.WebPages.Razor.xml
 D:\Sach files\MoneySpent\web\MoneySpent\bin\Newtonsoft.Json.xml
 D:\Sach files\MoneySpent\web\MoneySpent\bin\Antlr3.Runtime.pdb
 D:\Sach files\MoneySpent\web\MoneySpent\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\Sach files\MoneySpent\web\MoneySpent\obj\Debug\MoneySpent.csprojAssemblyReference.cache
 D:\Sach files\MoneySpent\web\MoneySpent\obj\Debug\MoneySpent.csproj.CoreCompileInputs.cache
 D:\Sach files\MoneySpent\web\MoneySpent\obj\Debug\MoneySpent.csproj.CopyComplete
 D:\Sach files\MoneySpent\web\MoneySpent\obj\Debug\MoneySpent.dll
 D:\Sach files\MoneySpent\web\MoneySpent\obj\Debug\MoneySpent.pdb
+D:\Sach files\MoneySpent\web\MoneySpent\bin\EntityFramework.dll
+D:\Sach files\MoneySpent\web\MoneySpent\bin\EntityFramework.SqlServer.dll
+D:\Sach files\MoneySpent\web\MoneySpent\bin\EntityFramework.xml
+D:\Sach files\MoneySpent\web\MoneySpent\bin\EntityFramework.SqlServer.xml
+D:\Sach files\MoneySpent\web\MoneySpent\obj\Debug\MoneySpent.csprojAssemblyReference.cache

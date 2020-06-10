@@ -1,0 +1,16 @@
+﻿body {
+}
+.SameSize {
+
+    width: 90%;
+}
+.center-Align {
+    margin: auto;
+}
+.red {
+    background-color: red;
+}
+.green {
+    background-color: green;
+}
+
